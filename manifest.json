@@ -1,7 +1,7 @@
 {
     "name": "Cebt_and_Omicorax_modpack",
     "version_number": "1.0.1",
-    "website_url": "https://github.com/thunderstore-io",
+    "website_url": "https://github.com/cebehat/CebtOmiLC",
     "description": "Modpack for Cebt Omicorax and friends usage",
     "dependencies": [
 "2018-LC_API-2.1.2",
