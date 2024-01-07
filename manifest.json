@@ -1,6 +1,6 @@
 {
     "name": "Cebt_and_Omicorax_modpack",
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/cebehat/CebtOmiLC",
     "description": "Modpack for Cebt Omicorax and friends usage",
     "dependencies": [
@@ -19,6 +19,11 @@
 "RugbugRedfern-Skinwalkers-2.0.1",
 "x753-Mimics-2.1.0",
 "Jordo-NeedyCats-1.0.2",
-"JT-LC_Better_Teleport-1.0.0"
+"Sligili-More_Emotes-1.2.2",
+"EliteMasterEric-Coroner-1.5.3",
+"Pooble-LCBetterSaves-1.6.1",
+"TwinDimensionalProductions-CoilHeadStare-1.0.3",
+"sunnobunno-BonkHitSFX-1.0.4",
+"SirTyler-BetterTeleporter-1.2.2",
     ]
 }
